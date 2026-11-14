@@ -1,0 +1,10 @@
+print("Karibu Duka Langu!")
+jina = input("Wewe ni nani? ")
+print("Karibu sana", jina)
+bidhaa = input("Unataka kununua nini? ")
+bei = int(input("Bei yake ni ngapi? "))
+pesa = int(input("Una pesa ngapi? "))
+baki = pesa - bei
+print("Umenunua:", bidhaa)
+print("Baki yako ni:", baki)
+print("Asante, karibu tena!")
